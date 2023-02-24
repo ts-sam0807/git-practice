@@ -1,6 +1,6 @@
 print("Hello, Swift!")
 print("Hello, World!!")
-print("Hello, Swift!")
+print("Hello, Testing!")
 
 var a = 10
 var b = 20
